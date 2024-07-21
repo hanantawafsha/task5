@@ -1,0 +1,24 @@
+.team
+{
+text-align: center;
+background-color:#f4f4f4;
+height: 500px;
+}
+
+i{
+color:black;
+}
+
+.paragraph{
+    color:gray;
+}
+
+
+
+.team-member-item{
+    float: left;
+    width: 33%;
+}
+.clearfix{
+    clear: both;
+}
